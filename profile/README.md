@@ -21,4 +21,5 @@ Clément Bosquet (Centre d'économie de la Sorbonne)
 
 ## Funding
 Help of the ANR 323,745 euros
+
 Beginning and duration of the scientific project: March 2023 - 48 Months
